@@ -1,2 +1,2 @@
 # basic-html
-I am teaching html to my nephew.  (Personal purpose) [gh-pages]
+I am teaching html to my nephew. For absolutely beginner. (Personal purpose) [gh-pages]
